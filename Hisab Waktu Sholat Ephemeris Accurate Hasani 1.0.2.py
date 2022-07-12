@@ -269,4 +269,3 @@ print("      Andi Hasan Ashari")
 print("      LF PCNU Kab. Ngawi")
 print(" ")
 print("dihisab pada",now)
-#"Penting! Boleh didownload, digunakan, dishare, disimpan, tapi DILARANG MERUBAH ISI CODINGAN, Harap Maklum"
